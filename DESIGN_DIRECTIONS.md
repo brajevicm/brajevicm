@@ -54,7 +54,7 @@ These six intentionally move away from understated minimalism. They test how far
 
 ## #15 family — current direction
 
-The original **#15 Full-stack bento** is unchanged. These are three new refinements of the same idea:
+The original **#15 Full-stack bento** is unchanged. These are five new refinements of the same idea:
 
 ### 15A — Refined bright
 
@@ -80,7 +80,24 @@ Fewer, larger blocks; more whitespace; larger type; and a stronger editorial com
 
 [Open full README](./concepts/15c-bento-editorial.md)
 
-All three variants deliberately **demote open-source work to a footer link**. The profile is about Miloš first; individual repositories are supporting evidence rather than the main story.
+
+### 15D — Icon bento
+
+The 15A palette with integrated category icons, richer tile detail, and a small current-role pill. This is the **recommended icon treatment**.
+
+<img src="./assets/concept-15d-icon-bento.svg" alt="Icon full-stack bento" width="100%">
+
+[Open full README](./concepts/15d-icon-bento.md)
+
+### 15E — Badge bento
+
+A control variant that uses compact technology chips inside the bento. This tests whether badge-like UI adds polish or starts to feel like a typical GitHub profile.
+
+<img src="./assets/concept-15e-badge-bento.svg" alt="Badge full-stack bento" width="100%">
+
+[Open full README](./concepts/15e-badge-bento.md)
+
+The newer variants deliberately **demote open-source work to a footer link**. The profile is about Miloš first; individual repositories are supporting evidence rather than the main story.
 
 ## Current finalists
 
@@ -90,6 +107,8 @@ The current direction is the **#15 bento family**:
 - **[15A — Refined bright](./concepts/15a-bento-refined.md):** calmer, cleaner, more premium.
 - **[15B — Dark luxe](./concepts/15b-bento-dark-luxe.md):** darker and more restrained.
 - **[15C — Editorial bento](./concepts/15c-bento-editorial.md):** fewer blocks and stronger typography.
+- **[15D — Icon bento](./concepts/15d-icon-bento.md):** integrated category icons + current-role pill; strongest polish candidate.
+- **[15E — Badge bento](./concepts/15e-badge-bento.md):** compact technology chips; useful control against the icon approach.
 
 The root README currently mirrors **04 — Executive minimal** as the neutral baseline.
 
