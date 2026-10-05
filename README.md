@@ -1,31 +1,40 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/direction-a-editorial-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/direction-a-editorial-light.svg">
-  <img src="./assets/direction-a-editorial-light.svg" alt="Miloš Brajević — Senior Software Engineer" width="100%">
-</picture>
+<h1 align="center">Miloš Brajević</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brajevicm/"><strong>LinkedIn ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://medium.com/@brajevicm"><strong>Writing ↗</strong></a>
+  <strong>Senior Full-Stack Software Engineer</strong><br>
+  Interfaces · Services · Infrastructure · Tooling
 </p>
 
-## About
+<p align="center">
+  <a href="https://www.linkedin.com/in/brajevicm/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://medium.com/@brajevicm">Writing</a>
+</p>
 
-I build software that stays understandable as it grows.
+<br>
 
-I'm a senior software engineer at **[Rasa](https://rasa.com/)**, working across **product engineering**, **frontend architecture**, and **developer tooling**. I care about turning complex systems into interfaces and workflows that feel simple — without sacrificing performance, accessibility, or maintainability.
+I build software **end to end**, with a bias toward systems that are easy to understand, operate, and extend.
 
-Most days are **TypeScript**, **React**, and **Node.js**. **Rust** is becoming a larger part of my tooling work.
+At **[Rasa](https://rasa.com/)**, I work on product and engineering systems where frontend architecture, backend behavior, developer workflows, and platform concerns meet.
 
-## What I optimize for
+<br>
 
-- **Clarity over cleverness** — architecture that remains legible under change.
-- **Product quality over surface polish alone** — fast, accessible interfaces backed by sound systems.
-- **Fast feedback over late enforcement** — tooling that makes the right thing easier to do.
+### Areas of depth
 
-## Open source
+| Product | Backend | Platform | Tooling |
+| --- | --- | --- | --- |
+| React | Node.js | AWS | Rust |
+| TypeScript | APIs | Docker | Static analysis |
+| Accessibility | Data flows | CI/CD | Automation |
+| Performance | Service design | Observability | Developer experience |
 
-**[next-universal-route](https://github.com/brajevicm/next-universal-route)** — a universal routing layer for Next.js built around explicit, reusable routes across client and server.
+<br>
 
-<sub>TypeScript · React · Node.js · Rust · AWS</sub>
+### Open source
+
+**[next-universal-route](https://github.com/brajevicm/next-universal-route)**  
+A universal routing layer for Next.js with shared, explicit routes across client and server.
+
+<br>
+
+> **Principle:** The best architecture is the one that leaves the next engineer with less to understand, not more.
