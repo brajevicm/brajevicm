@@ -1,42 +1,15 @@
-<h1 align="center">Miloš Brajević</h1>
+<img src="./assets/concept-15f-product-bento.svg" alt="Miloš Brajević — product-oriented full-stack bento" width="100%">
 
-<p align="center">
-  <strong>Senior Full-Stack Software Engineer</strong><br>
-  Frontend · Backend · Infrastructure · Tools
+## I like finding simpler ways through complicated engineering problems
+
+My work spans the full stack, from product interfaces to backend systems, infrastructure, and developer tooling.
+
+A lot of it has been on data-heavy applications, where performance and reliability matter to the people who use them. I also enjoy working on the engineering side that helps a team ship: builds, tooling, and the processes around them.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brajevicm/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://medium.com/@brajevicm">Writing</a>
-</p>
-
-<br>
-
-## I make complicated software feel simple to use.
-
-I work across frontends, backends, cloud infrastructure, and developer tools.
-
-I'm happiest on problems where the user experience and the system design affect each other, like data-heavy apps, tricky workflows, performance, releases, and tools that make development easier.
-
-Currently at **[Rasa](https://rasa.com/)**.
-
-<br>
-
-| Frontend | Backend | Infrastructure & tools |
-| --- | --- | --- |
-| React | Node.js | AWS |
-| TypeScript | APIs | Docker |
-| Accessibility | PostgreSQL | Rust |
-| Performance | Service design | CI/CD |
-
-Lately I've also been spending more time on developer tooling and coding agents.
-
-<br>
-
-### Selected work
-
-**[next-universal-route](https://github.com/brajevicm/next-universal-route)**  
-Define routes once and reuse them on both the client and server in Next.js.
-
-`TypeScript` · `Next.js` · `Node.js`
