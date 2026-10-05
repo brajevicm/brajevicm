@@ -1,37 +1,54 @@
-# Profile design directions
+# Profile README explorations
 
-These are deliberately different art directions for the profile hero. The README currently uses **Direction A** as the least opinionated default while this PR is under review.
+This PR now contains **10 complete README directions**, not just header treatments. They intentionally disagree about what a premium GitHub profile should feel like.
 
-## A — Editorial type
+The current root README uses **04 — Executive minimal** as a neutral baseline. Nothing here is considered final.
 
-Minimal, typography-first, almost no decorative language. The goal is to feel more like an editorial masthead than a developer-profile graphic.
+| # | Direction | Visual idea | Best if we want… |
+| --- | --- | --- | --- |
+| **01** | [Editorial](./concepts/01-editorial.md) | Custom typographic masthead + restrained body | a design-studio / editorial feel |
+| **02** | [Personal mark](./concepts/02-personal-mark.md) | MB monogram + compact four-part stack | a reusable personal identity |
+| **03** | [Statement](./concepts/03-statement.md) | Thesis-first custom hero | a memorable point of view |
+| **04** | [Executive minimal](./concepts/04-executive-minimal.md) | No hero; typography + one capability table | maximum restraint and seniority |
+| **05** | [Full-stack dashboard](./concepts/05-full-stack-dashboard.md) | Compact badges + 2×2 capability matrix | immediate technical scanability |
+| **06** | [Terminal](./concepts/06-terminal.md) | CLI language + concise prose | playful engineer-native personality |
+| **07** | [Technical dossier](./concepts/07-technical-dossier.md) | Spec-sheet / capability-map aesthetic | systems-engineering character |
+| **08** | [System map](./concepts/08-system-map.md) | Architecture diagram as the identity | making “full stack” visual |
+| **09** | [Product portfolio](./concepts/09-product-portfolio.md) | Editorial case-study layout | product-engineering sophistication |
+| **10** | [Signal strip](./concepts/10-signal-strip.md) | Clean technology icon strip + structured copy | polished familiarity without a badge wall |
+
+## Three custom-hero directions
+
+### 01 — Editorial
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/direction-a-editorial-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/direction-a-editorial-light.svg">
-  <img src="./assets/direction-a-editorial-light.svg" alt="Direction A — Editorial type" width="100%">
+  <img src="./assets/direction-a-editorial-light.svg" alt="Editorial direction" width="100%">
 </picture>
 
-## B — Personal mark
-
-Identity-first. A custom MB mark does most of the visual work, with the copy kept secondary. This is the most reusable direction if the goal is to carry the same identity into LinkedIn, a personal site, or speaking materials.
+### 02 — Personal mark
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/direction-b-mark-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/direction-b-mark-light.svg">
-  <img src="./assets/direction-b-mark-light.svg" alt="Direction B — Personal mark" width="100%">
+  <img src="./assets/direction-b-mark-light.svg" alt="Personal mark direction" width="100%">
 </picture>
 
-## C — Statement
-
-The professional thesis becomes the visual center of gravity. Less résumé-like and more opinionated: the profile opens with a point of view before it opens with a title.
+### 03 — Statement
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/direction-c-statement-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/direction-c-statement-light.svg">
-  <img src="./assets/direction-c-statement-light.svg" alt="Direction C — Statement" width="100%">
+  <img src="./assets/direction-c-statement-light.svg" alt="Statement direction" width="100%">
 </picture>
 
-## A fourth direction worth considering
+## Positioning shared across the exploration
 
-**No hero at all.** A beautifully typeset Markdown profile with one tiny personal mark may ultimately feel more expensive than any banner. If none of these three earns its space, that should be treated as a valid design result rather than a failure to find the right SVG.
+Every direction now presents Miloš as a **Senior Full-Stack Software Engineer**, not a frontend specialist.
+
+The recurring scope is intentionally broader:
+
+**product interfaces → backend services → data → cloud/platform → developer tooling**
+
+The visual treatment and amount of technical detail vary; that full-stack positioning does not.
