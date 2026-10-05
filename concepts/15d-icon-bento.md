@@ -7,13 +7,3 @@ I work across frontends, backends, cloud infrastructure, and developer tools.
 I'm happiest on problems where the user experience and the system design affect each other, like data-heavy apps, tricky workflows, performance, releases, and tools that make development easier.
 
 Lately I've also been spending more time on developer tooling and coding agents.
-
----
-
-<p align="center">
-  ◈ <a href="https://github.com/brajevicm">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  in <a href="https://www.linkedin.com/in/brajevicm/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  M <a href="https://medium.com/@brajevicm">Writing</a>
-</p>
