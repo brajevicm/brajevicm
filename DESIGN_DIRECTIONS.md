@@ -52,13 +52,44 @@ These six intentionally move away from understated minimalism. They test how far
 
 <img src="./assets/concept-17-signal-flow.svg" alt="Signal flow direction" width="100%">
 
+## #15 family — current direction
+
+The original **#15 Full-stack bento** is unchanged. These are three new refinements of the same idea:
+
+### 15A — Refined bright
+
+Fewer colors, warmer background, cleaner spacing, and a calmer visual hierarchy.
+
+<img src="./assets/concept-15a-bento-refined.svg" alt="Refined bright full-stack bento" width="100%">
+
+[Open full README](./concepts/15a-bento-refined.md)
+
+### 15B — Dark luxe
+
+A darker, more restrained version with muted jewel tones and a warmer light tile for contrast.
+
+<img src="./assets/concept-15b-bento-dark-luxe.svg" alt="Dark luxe full-stack bento" width="100%">
+
+[Open full README](./concepts/15b-bento-dark-luxe.md)
+
+### 15C — Editorial bento
+
+Fewer, larger blocks; more whitespace; larger type; and a stronger editorial composition.
+
+<img src="./assets/concept-15c-bento-editorial.svg" alt="Editorial full-stack bento" width="100%">
+
+[Open full README](./concepts/15c-bento-editorial.md)
+
+All three variants deliberately **demote open-source work to a footer link**. The profile is about Miloš first; individual repositories are supporting evidence rather than the main story.
+
 ## Current finalists
 
-The current serious contenders are:
+The current direction is the **#15 bento family**:
 
-- **[01 — Editorial](./concepts/01-editorial.md):** the only finalist with a custom visual hero; now stripped down to typography, one accent, and no faux metadata.
-- **[04 — Executive minimal](./concepts/04-executive-minimal.md):** pure GitHub-native layout, no custom assets, maximum restraint.
-- **[11 — Hybrid](./concepts/11-hybrid.md):** natural #9 copy, the restraint of #4, and one compact end-to-end full-stack visual cue.
+- **[15 — Original](./concepts/15-full-stack-bento.md):** the first colorful bento direction.
+- **[15A — Refined bright](./concepts/15a-bento-refined.md):** calmer, cleaner, more premium.
+- **[15B — Dark luxe](./concepts/15b-bento-dark-luxe.md):** darker and more restrained.
+- **[15C — Editorial bento](./concepts/15c-bento-editorial.md):** fewer blocks and stronger typography.
 
 The root README currently mirrors **04 — Executive minimal** as the neutral baseline.
 
