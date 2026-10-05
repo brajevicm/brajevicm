@@ -10,26 +10,25 @@
   <a href="https://medium.com/@brajevicm">Writing</a>
 </p>
 
-## I build software end to end.
+# I make complicated software feel simple to use.
 
-I'm a **senior full-stack software engineer** working across product interfaces, backend services, cloud infrastructure, and developer tooling.
+I work across frontends, backends, cloud infrastructure, and developer tools.
 
-My sweet spot is turning complicated product and engineering problems into systems that feel simple to use and remain simple to change.
+I'm happiest on problems where the user experience and the system design affect each other, like data-heavy apps, tricky workflows, performance, releases, and tools that make development easier.
 
-Currently building at **[Rasa](https://rasa.com/)**.
+Currently at **[Rasa](https://rasa.com/)**.
 
-### Working set
+### Across the stack
 
-**Frontend** — TypeScript, React, application architecture, accessibility, performance  
-**Backend** — Node.js, APIs, service design, data flows  
-**Platform** — AWS, Docker, CI/CD, observability  
-**Tooling** — Rust, static analysis, developer experience
+**Frontend** — React, TypeScript, accessibility, performance  
+**Backend** — Node.js, APIs, PostgreSQL, service design  
+**Infrastructure & tools** — AWS, Docker, CI/CD, Rust
 
-### Selected open source
+Lately I've also been spending more time on developer tooling and coding agents.
+
+### Selected work
 
 **[next-universal-route →](https://github.com/brajevicm/next-universal-route)**  
-A universal routing layer for Next.js with explicit, reusable routes shared across client and server.
+Define routes once and reuse them on both the client and server in Next.js.
 
----
-
-<sub>I value clarity over cleverness, fast feedback over late enforcement, and software that stays understandable as it grows.</sub>
+`TypeScript` · `Next.js` · `Node.js`
