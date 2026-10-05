@@ -83,7 +83,7 @@ Fewer, larger blocks; more whitespace; larger type; and a stronger editorial com
 
 ### 15D — Icon bento
 
-The 15A palette with integrated category icons, richer tile detail, and a small current-role pill. This is the **recommended icon treatment**.
+The 15A palette with integrated category icons and richer tile detail. This is the **recommended icon treatment**.
 
 <img src="./assets/concept-15d-icon-bento.svg" alt="Icon full-stack bento" width="100%">
 
@@ -107,7 +107,7 @@ The current direction is the **#15 bento family**:
 - **[15A — Refined bright](./concepts/15a-bento-refined.md):** calmer, cleaner, more premium.
 - **[15B — Dark luxe](./concepts/15b-bento-dark-luxe.md):** darker and more restrained.
 - **[15C — Editorial bento](./concepts/15c-bento-editorial.md):** fewer blocks and stronger typography.
-- **[15D — Icon bento](./concepts/15d-icon-bento.md):** integrated category icons + current-role pill; strongest polish candidate.
+- **[15D — Icon bento](./concepts/15d-icon-bento.md):** integrated category icons; strongest polish candidate.
 - **[15E — Badge bento](./concepts/15e-badge-bento.md):** compact technology chips; useful control against the icon approach.
 
 The root README currently mirrors **04 — Executive minimal** as the neutral baseline.
