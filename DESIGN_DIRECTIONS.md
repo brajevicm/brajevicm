@@ -54,7 +54,7 @@ These six intentionally move away from understated minimalism. They test how far
 
 ## #15 family — current direction
 
-The original **#15 Full-stack bento** is unchanged. These are five new refinements of the same idea:
+The original **#15 Full-stack bento** is unchanged. These are six new refinements of the same idea:
 
 ### 15A — Refined bright
 
@@ -97,6 +97,15 @@ A control variant that uses compact technology chips inside the bento. This test
 
 [Open full README](./concepts/15e-badge-bento.md)
 
+
+### 15F — Product bento
+
+The 15D visual system, but organized around responsibilities instead of technologies: **Product · Systems · Platform · Engineering**. Technologies are supporting evidence rather than the headline.
+
+<img src="./assets/concept-15f-product-bento.svg" alt="Product-oriented full-stack bento" width="100%">
+
+[Open full README](./concepts/15f-product-bento.md)
+
 The newer variants deliberately **demote open-source work to a footer link**. The profile is about Miloš first; individual repositories are supporting evidence rather than the main story.
 
 ## Current finalists
@@ -109,6 +118,7 @@ The current direction is the **#15 bento family**:
 - **[15C — Editorial bento](./concepts/15c-bento-editorial.md):** fewer blocks and stronger typography.
 - **[15D — Icon bento](./concepts/15d-icon-bento.md):** integrated category icons; strongest polish candidate.
 - **[15E — Badge bento](./concepts/15e-badge-bento.md):** compact technology chips; useful control against the icon approach.
+- **[15F — Product bento](./concepts/15f-product-bento.md):** same polish as 15D, but product/system responsibilities lead and technologies recede.
 
 The root README currently mirrors **04 — Executive minimal** as the neutral baseline.
 
