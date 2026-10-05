@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Full-Stack Software Engineer</strong><br>
-  Interfaces · Services · Infrastructure · Tooling
+  Frontend · Backend · Infrastructure · Tools
 </p>
 
 <p align="center">
@@ -13,28 +13,30 @@
 
 <br>
 
-I build software **end to end**, with a bias toward systems that are easy to understand, operate, and extend.
+## I make complicated software feel simple to use.
 
-At **[Rasa](https://rasa.com/)**, I work on product and engineering systems where frontend architecture, backend behavior, developer workflows, and platform concerns meet.
+I work across frontends, backends, cloud infrastructure, and developer tools.
 
-<br>
+I'm happiest on problems where the user experience and the system design affect each other, like data-heavy apps, tricky workflows, performance, releases, and tools that make development easier.
 
-### Areas of depth
-
-| Product | Backend | Platform | Tooling |
-| --- | --- | --- | --- |
-| React | Node.js | AWS | Rust |
-| TypeScript | APIs | Docker | Static analysis |
-| Accessibility | Data flows | CI/CD | Automation |
-| Performance | Service design | Observability | Developer experience |
+Currently at **[Rasa](https://rasa.com/)**.
 
 <br>
 
-### Open source
+| Frontend | Backend | Infrastructure & tools |
+| --- | --- | --- |
+| React | Node.js | AWS |
+| TypeScript | APIs | Docker |
+| Accessibility | PostgreSQL | Rust |
+| Performance | Service design | CI/CD |
+
+Lately I've also been spending more time on developer tooling and coding agents.
+
+<br>
+
+### Selected work
 
 **[next-universal-route](https://github.com/brajevicm/next-universal-route)**  
-A universal routing layer for Next.js with shared, explicit routes across client and server.
+Define routes once and reuse them on both the client and server in Next.js.
 
-<br>
-
-> **Principle:** The best architecture is the one that leaves the next engineer with less to understand, not more.
+`TypeScript` · `Next.js` · `Node.js`
