@@ -5,11 +5,11 @@
 
 <br>
 
-# I turn complex engineering into simple product behavior.
+# I make complicated software feel simple to use.
 
-My work spans **frontend architecture, backend services, cloud infrastructure, and developer tooling**.
+I work across frontends, backends, cloud infrastructure, and developer tools.
 
-I enjoy the parts of software engineering where the user's experience and the system's architecture are inseparable: data-heavy interfaces, product workflows, service boundaries, performance constraints, release mechanics, and the tools engineers rely on to make changes safely.
+I'm happiest on problems where the user experience and the system design affect each other, like data-heavy apps, tricky workflows, performance, releases, and tools that make development easier.
 
 Currently at **[Rasa](https://rasa.com/)**.
 
