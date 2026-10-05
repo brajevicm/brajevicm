@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+  <title id="t">Miloš Brajević — Product Bento</title>
+  <desc id="d">A refined full-stack bento organized around product, systems, platform, and engineering responsibilities.</desc>
+  <rect width="1200" height="440" rx="30" fill="#F4F1EA"/>
+
+  <!-- hero -->
+  <rect x="28" y="28" width="570" height="184" rx="24" fill="#1D2433"/>
+  <text x="56" y="84" fill="#9FA9B9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.6">MILOŠ BRAJEVIĆ</text>
+  <text x="56" y="148" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.4">Senior Full-Stack</text>
+  <text x="56" y="184" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Software Engineer</text>
+
+  <!-- product -->
+  <rect x="618" y="28" width="252" height="184" rx="24" fill="#5B6CFF"/>
+  <g transform="translate(646 54)" fill="none" stroke="#EEF0FF" stroke-width="2.2" stroke-linecap="round">
+    <rect x="1" y="2" width="24" height="18" rx="3"/>
+    <path d="M1 7h24"/>
+    <circle cx="5" cy="4.5" r="1" fill="#EEF0FF" stroke="none"/>
+    <circle cx="8.5" cy="4.5" r="1" fill="#EEF0FF" stroke="none"/>
+  </g>
+  <text x="646" y="110" fill="#DDE1FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">PRODUCT</text>
+  <text x="646" y="148" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui" font-size="22" font-weight="700">Complex interfaces</text>
+  <text x="646" y="179" fill="#EEF0FF" font-family="Inter, ui-sans-serif, system-ui" font-size="16">workflows · performance</text>
+
+  <!-- systems -->
+  <rect x="890" y="28" width="282" height="184" rx="24" fill="#D7F06E"/>
+  <g transform="translate(918 54)" fill="none" stroke="#394014" stroke-width="2.2">
+    <ellipse cx="12" cy="5" rx="10" ry="4"/>
+    <path d="M2 5v13c0 2 4.5 4 10 4s10-2 10-4V5"/>
+    <path d="M2 11c0 2 4.5 4 10 4s10-2 10-4"/>
+  </g>
+  <text x="918" y="110" fill="#5C641D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">SYSTEMS</text>
+  <text x="918" y="148" fill="#252A10" font-family="Inter, ui-sans-serif, system-ui" font-size="22" font-weight="700">APIs &amp; data</text>
+  <text x="918" y="179" fill="#384018" font-family="Inter, ui-sans-serif, system-ui" font-size="16">state · architecture</text>
+
+  <!-- platform -->
+  <rect x="28" y="232" width="320" height="180" rx="24" fill="#F3B36A"/>
+  <g transform="translate(56 258)" fill="none" stroke="#5A3716" stroke-width="2.2" stroke-linecap="round">
+    <path d="M6 19h18a7 7 0 0 0 0-14 9 9 0 0 0-17-1A7 7 0 0 0 6 19Z"/>
+  </g>
+  <text x="56" y="312" fill="#70491C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">PLATFORM</text>
+  <text x="56" y="351" fill="#42280D" font-family="Inter, ui-sans-serif, system-ui" font-size="23" font-weight="700">Ship &amp; operate</text>
+  <text x="56" y="382" fill="#624019" font-family="Inter, ui-sans-serif, system-ui" font-size="16">reliability · observability</text>
+
+  <!-- engineering -->
+  <rect x="368" y="232" width="380" height="180" rx="24" fill="#D9D7FF"/>
+  <g transform="translate(398 258)" fill="none" stroke="#454060" stroke-width="2.2" stroke-linecap="round">
+    <circle cx="12" cy="12" r="5"/>
+    <path d="M12 1v4M12 19v4M1 12h4M19 12h4M4.2 4.2l2.9 2.9M16.9 16.9l2.9 2.9M19.8 4.2l-2.9 2.9M7.1 16.9l-2.9 2.9"/>
+  </g>
+  <text x="398" y="312" fill="#5F5A7C" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">ENGINEERING</text>
+  <text x="398" y="351" fill="#2B2840" font-family="Inter, ui-sans-serif, system-ui" font-size="23" font-weight="700">Developer tooling</text>
+  <text x="398" y="382" fill="#57516F" font-family="Inter, ui-sans-serif, system-ui" font-size="16">automation · agents</text>
+
+  <!-- principle -->
+  <rect x="768" y="232" width="404" height="180" rx="24" fill="#FDFCF9" stroke="#D7D2C8"/>
+  <text x="800" y="282" fill="#8B857A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">HOW I WORK</text>
+  <text x="800" y="330" fill="#17191D" font-family="Inter, ui-sans-serif, system-ui" font-size="22" font-weight="650">Make the hard parts</text>
+  <text x="800" y="362" fill="#17191D" font-family="Inter, ui-sans-serif, system-ui" font-size="22" font-weight="650">feel simple.</text>
+  <path d="M800 385h120" stroke="#5B6CFF" stroke-width="4" stroke-linecap="round"/>
+</svg>
