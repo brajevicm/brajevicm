@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img src="./assets/profile-hero-light.svg" alt="Miloš Brajević — Senior Software Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/direction-a-editorial-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/direction-a-editorial-light.svg">
+  <img src="./assets/direction-a-editorial-light.svg" alt="Miloš Brajević — Senior Software Engineer" width="100%">
 </picture>
 
 <p align="center">
