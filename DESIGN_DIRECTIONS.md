@@ -1,6 +1,6 @@
 # Profile README explorations
 
-This PR now contains **11 complete README directions**, not just header treatments. They intentionally disagree about what a premium GitHub profile should feel like.
+This PR now contains **17 complete README directions**, not just header treatments. They intentionally disagree about what a premium GitHub profile should feel like.
 
 The current root README uses **04 — Executive minimal** as a neutral baseline. Nothing here is considered final.
 
@@ -17,6 +17,40 @@ The current root README uses **04 — Executive minimal** as a neutral baseline.
 | **09** | [Product portfolio](./concepts/09-product-portfolio.md) | Editorial case-study layout | product-engineering sophistication |
 | **10** | [Signal strip](./concepts/10-signal-strip.md) | Clean technology icon strip + structured copy | polished familiarity without a badge wall |
 | **11** | [Hybrid](./concepts/11-hybrid.md) | #9 copy + #4 restraint + subtle full-stack flow | the strongest balance of personality, scanability, and polish |
+| **12** | [Aurora](./concepts/12-aurora.md) | Full-bleed violet / cyan / coral gradient | premium product-company energy |
+| **13** | [Swiss color blocks](./concepts/13-swiss-color-blocks.md) | Bold cobalt, coral, yellow, and lime geometry | graphic/editorial impact |
+| **14** | [Midnight prism](./concepts/14-midnight-prism.md) | Dark surface with a luminous spectrum accent | polished dark-mode drama |
+| **15** | [Full-stack bento](./concepts/15-full-stack-bento.md) | Color-coded stack tiles | making full-stack breadth the visual identity |
+| **16** | [Magazine cover](./concepts/16-magazine-cover.md) | Oversized editorial typography + strong color blocks | maximum personality |
+| **17** | [Signal flow](./concepts/17-signal-flow.md) | A colorful path through the whole stack | a modern visual story of full-stack work |
+
+## Color / impact round
+
+These six intentionally move away from understated minimalism. They test how far the profile can go toward **color, personality, and visual impact** without becoming a generic developer-template README.
+
+### 12 — Aurora
+
+<img src="./assets/concept-12-aurora.svg" alt="Aurora direction" width="100%">
+
+### 13 — Swiss color blocks
+
+<img src="./assets/concept-13-swiss-blocks.svg" alt="Swiss color blocks direction" width="100%">
+
+### 14 — Midnight prism
+
+<img src="./assets/concept-14-midnight-prism.svg" alt="Midnight prism direction" width="100%">
+
+### 15 — Full-stack bento
+
+<img src="./assets/concept-15-bento.svg" alt="Full-stack bento direction" width="100%">
+
+### 16 — Magazine cover
+
+<img src="./assets/concept-16-magazine.svg" alt="Magazine cover direction" width="100%">
+
+### 17 — Signal flow
+
+<img src="./assets/concept-17-signal-flow.svg" alt="Signal flow direction" width="100%">
 
 ## Current finalists
 
