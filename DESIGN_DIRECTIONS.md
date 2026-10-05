@@ -1,6 +1,6 @@
 # Profile README explorations
 
-This PR now contains **10 complete README directions**, not just header treatments. They intentionally disagree about what a premium GitHub profile should feel like.
+This PR now contains **11 complete README directions**, not just header treatments. They intentionally disagree about what a premium GitHub profile should feel like.
 
 The current root README uses **04 — Executive minimal** as a neutral baseline. Nothing here is considered final.
 
@@ -16,6 +16,17 @@ The current root README uses **04 — Executive minimal** as a neutral baseline.
 | **08** | [System map](./concepts/08-system-map.md) | Architecture diagram as the identity | making “full stack” visual |
 | **09** | [Product portfolio](./concepts/09-product-portfolio.md) | Editorial case-study layout | product-engineering sophistication |
 | **10** | [Signal strip](./concepts/10-signal-strip.md) | Clean technology icon strip + structured copy | polished familiarity without a badge wall |
+| **11** | [Hybrid](./concepts/11-hybrid.md) | #9 copy + #4 restraint + subtle full-stack flow | the strongest balance of personality, scanability, and polish |
+
+## Current finalists
+
+The current serious contenders are:
+
+- **[01 — Editorial](./concepts/01-editorial.md):** the only finalist with a custom visual hero; now stripped down to typography, one accent, and no faux metadata.
+- **[04 — Executive minimal](./concepts/04-executive-minimal.md):** pure GitHub-native layout, no custom assets, maximum restraint.
+- **[11 — Hybrid](./concepts/11-hybrid.md):** natural #9 copy, the restraint of #4, and one compact end-to-end full-stack visual cue.
+
+The root README currently mirrors **04 — Executive minimal** as the neutral baseline.
 
 ## Three custom-hero directions
 
