@@ -2,7 +2,7 @@
 
 ## I like finding simpler ways through complicated engineering problems
 
-My background is in frontend engineering, but over the years my work has expanded across the full stack — from complex interfaces to backend systems, infrastructure, and developer tooling.
+My background is in frontend engineering, but over the years my work has expanded across the full stack - from complex interfaces to backend systems, infrastructure, and developer tooling.
 
 A lot of it has been on data-heavy applications, where performance and reliability matter to the people who use them. I've also spent time leading engineering work and improving the way teams build and ship software: tooling, builds, releases, and the processes around them.
 
