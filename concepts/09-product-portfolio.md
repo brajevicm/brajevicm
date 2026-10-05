@@ -15,31 +15,14 @@ Currently at **[Rasa](https://rasa.com/)**.
 
 ---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| Frontend | Backend | Infrastructure & tools |
+| --- | --- | --- |
+| React | Node.js | AWS |
+| TypeScript | APIs | Docker |
+| Accessibility | PostgreSQL | Rust |
+| Performance | Service design | CI/CD |
 
-### 01 / Product systems
-
-React, TypeScript, state, accessibility, performance, design-system integration.
-
-</td>
-<td width="33%" valign="top">
-
-### 02 / Services
-
-Node.js, APIs, domain boundaries, data contracts, PostgreSQL.
-
-</td>
-<td width="33%" valign="top">
-
-### 03 / Platform + tools
-
-AWS, Docker, CI/CD, observability, Rust, automation, DX.
-
-</td>
-</tr>
-</table>
+Lately I've also been spending more time on developer tooling and coding agents.
 
 ---
 
