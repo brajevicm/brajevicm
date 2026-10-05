@@ -1,10 +1,10 @@
-<img src="./assets/concept-15f-product-bento.svg" alt="Miloš Brajević — product-oriented full-stack bento" width="100%">
+<img src="./assets/concept-15f-product-bento.svg" alt="Miloš Brajević — full-stack engineering bento" width="100%">
 
 ## I like finding simpler ways through complicated engineering problems
 
-My work spans the full stack, from product interfaces to backend systems, infrastructure, and developer tooling.
+My background is in frontend engineering, but over the years my work has expanded across the full stack — from complex interfaces to backend systems, infrastructure, and developer tooling.
 
-A lot of it has been on data-heavy applications, where performance and reliability matter to the people who use them. I also enjoy working on the engineering side that helps a team ship: builds, tooling, and the processes around them.
+A lot of it has been on data-heavy applications, where performance and reliability matter to the people who use them. I've also spent time leading engineering work and improving the way teams build and ship software: tooling, builds, releases, and the processes around them.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
